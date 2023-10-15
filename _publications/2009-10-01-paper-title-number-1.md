@@ -6,4 +6,4 @@ date: 2020-10-01
 venue: 'Interspeech'
 citation: 'Shi, Xiaohan, Sixia Li, and Jianwu Dang. "Dimensional Emotion Prediction Based on Interactive Context in Conversation." INTERSPEECH. 2020.'
 ---
-
+[Download paper here](http://www.interspeech2020.org/uploadfile/pdf/Thu-2-4-6.pdf)
