@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in China, Shaanxi University of Technology, 2013
 * M.S. in Japan, Japan Advanced Institute of Science and Technology, 2017
-* Ph.D in Japan, Nagoya University, 2025 (expected)
+* Ph.D. in Japan, Nagoya University, 2025 (expected)
 
 Work experience
 ======
