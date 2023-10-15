@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SHI Xiaohan/Personal Homepage"
+title                    : "SHI Xiaohan's Personal Homepage"
 title_separator          : "-"
 name                     : &name "SHI Xiaohan"
 description              : &description "personal description"
