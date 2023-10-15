@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Tomoki Toda](https://sites.google.co
 
 Starting from October 2023, I worked as a research assistant at Ximalaya Inc. From October 2020 to April 2022, I was an algorithm researcher at AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and speech emotion synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao). I work closely with Hainan University with [Associate Prof. Xingfeng Li](https://hd.hainanu.edu.cn/cs/info/1105/2356.htm) and the Institute of Automation, Chinese Academy of Sciences with [Associate Prof. Yongwei Li](https://www.researchgate.net/profile/Yongwei-Li-2).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:shi.xiaohan.t6@s.mail.nagoya-u.ac.jp) / [Github](https://github.com/sxh520zz) / [CSDN](https://blog.csdn.net/sxh520zz?type=blog)
 
