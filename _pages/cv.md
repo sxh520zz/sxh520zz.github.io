@@ -21,10 +21,6 @@ Work experience
   * AI Research Institute, Hithink RoyalFlush
   * Duties included: Emotion recognition; Emotion synthesis
 
-* 2023 - : Research Assistant
-  * Ximalaya Inc.
-  * Duties included: Emotion synthesis; Emotion conversion
-  
 Academic activities
 ======
 Reviewer：
