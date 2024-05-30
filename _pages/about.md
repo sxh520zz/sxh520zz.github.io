@@ -20,7 +20,7 @@ You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_V
 
 Updates
 ======
-- Mar 2024: Three papers were submitted to InterSpeech 2024
+- Mar 2024: Three papers were submitted to INTERSPEECH 2024
 - Dec 2023: Co-authored [paper](https://arxiv.org/abs/2401.13260) accepted at ICASSP 2024 (Seoul, South Korea). 
 - Sep 2023: Two papers were submitted to ICASSP 2024 
 - July 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at MRAC 2023 (Ottawa, Canada).
@@ -28,5 +28,5 @@ Updates
 - June 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to IEEE Transactions ASLP.
 - May 2023: First-author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at INTERSPEECH 2023 (Dublin, Ireland).
 - Feb 2023: One paper was submitted to INTERSPEECH 2023.
-- Sept 2022: I started my Ph.D. degree at Nagoya University.
+- Sep 2022: I started my Ph.D. degree at Nagoya University.
 
