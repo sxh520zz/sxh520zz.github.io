@@ -9,13 +9,24 @@ redirect_from:
 ---
 
 
-I'm a second-year Ph.D. student from [School of Informatics](https://www.i.nagoya-u.ac.jp/), [Nagoya University](https://www.nagoya-u.ac.jp/). My research interest includes emotion recognition, emotion synthesis, emotion conversion, and dialogue system.
+I'm a second-year Ph.D. student from [School of Informatics](https://www.i.nagoya-u.ac.jp/), [Nagoya University](https://www.nagoya-u.ac.jp/). My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
 
 I am supervised by Prof. [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics, Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
 
-From October 2020 to April 2022, I was an algorithm researcher at AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and speech emotion synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
+From October 2020 to April 2022, I was an algorithm researcher at AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
 You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:shi.xiaohan.t6@s.mail.nagoya-u.ac.jp) / [Github](https://github.com/sxh520zz) / [CSDN](https://blog.csdn.net/sxh520zz?type=blog)
+
+Updates
+======
+- Mar 2024: Three papers were submitted to InterSpeech 2024
+- Dec 2023: Co-authored [paper](https://arxiv.org/abs/2401.13260) accepted at ICASSP 2024 (Seoul, South Korea). 
+- Sep 2023: Two papers were submitted to ICASSP 2024 
+- July 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at MRAC 2023 (Ottawa, Canada).
+- June 2023: Start to be the reviewer of Speech Communication.
+- June 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to IEEE Transactions ASLP.
+- May 2023: First-author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at INTERSPEECH 2023 (Dublin, Ireland).
+- Feb 2023: One paper was submitted to INTERSPEECH 2023.
+- Sept 2022: I started my Ph.D. degree at Nagoya University.
 
