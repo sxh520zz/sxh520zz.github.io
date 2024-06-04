@@ -27,4 +27,4 @@ Updates
 - Sep 2022: Started my Ph.D. degree at Nagoya University.
 - Mar 2022: Left the AI Research Institute at Hithink RoyalFlush.
 - Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush.
-- Apr 2018: Started my master’s degree at the Japan Advanced Institute of Science and Technology.
+- Apr 2018: Started my master’s degree at Japan Advanced Institute of Science and Technology.
