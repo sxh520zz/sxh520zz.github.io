@@ -28,14 +28,14 @@ Reviewer：
 * Asia-Pacific Signal and Information Processing Association (APSIPA ASC) (2023)
 * IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) (2023)
 
-Publications
+# Publications
 ======
-Jounral
+## Journal
 * Music Theory-inspired Acoustic Representation for Speech Emotion Recognition
 Xingfeng Li, Xiaohan Shi, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.
 IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 31, pp. 2534-2547, June 2023.
-======
-Conference
+
+## Conference
 * Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition
 Xiaohan Shi, Xingfeng Li, Tomoki Toda.
 In Proc. INTERSPEECH, 2024. (Accepted)
