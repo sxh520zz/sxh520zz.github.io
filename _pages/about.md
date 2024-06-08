@@ -24,7 +24,6 @@ Updates
 - Jun 2023: Started as a reviewer of **Speech Communication**.
 - Jun 2023: Co-authored [paper](https://dspace.jaist.ac.jp/dspace/bitstream/10119/18464/1/M-AKAGI-I-0710.pdf) accepted to **IEEE Transactions ASLP**.
 - May 2023: First author [paper](https://www.isca-archive.org/interspeech_2023/shi23e_interspeech.pdf) accepted at **INTERSPEECH 2023** (Dublin, Ireland).
-- Sep 2022: Started my Ph.D. degree at Nagoya University.
-- Mar 2022: Left the AI Research Institute at Hithink RoyalFlush.
-- Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush.
-- Apr 2018: Started my master’s degree at Japan Advanced Institute of Science and Technology.
+- Sep 2022: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
+- Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China).
+- Apr 2018: Started my master’s degree at Japan Advanced Institute of Science and Technology (Ishikawa, Japan).
