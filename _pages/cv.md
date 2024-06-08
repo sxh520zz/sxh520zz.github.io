@@ -30,8 +30,8 @@ Reviewer：
 
 # Publications
 ## Journal
-* Music Theory-inspired Acoustic Representation for Speech Emotion Recognition
-  <u>Xiaohan Shi</u>, Xingfeng Li, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.
+* Music Theory-inspired Acoustic Representation for Speech Emotion Recognition  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.  
   IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 31, pp. 2534-2547, June 2023.
 
 ## Conference
@@ -40,7 +40,7 @@ Reviewer：
   In Proc. INTERSPEECH, 2024. (Accepted)
 
 * Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction  
-  Jiajun He*, <u>Xiaohan Shi</u>*, Xingfeng Li, Tomoki Toda.  
+  Jiajun He\*, <u>Xiaohan Shi</u>\*, Xingfeng Li, Tomoki Toda.  
   In Proc. IEEE-ICASSP, pp.11066-11070, 2024.
 
 * Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation  
