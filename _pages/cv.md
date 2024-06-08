@@ -34,6 +34,7 @@ Jounral
 * Music Theory-inspired Acoustic Representation for Speech Emotion Recognition
 Xingfeng Li, Xiaohan Shi, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.
 IEEE/ACM Transactions on Audio, Speech and Language Processing, Vol. 31, pp. 2534-2547, June 2023.
+======
 Conference
 * Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition
 Xiaohan Shi, Xingfeng Li, Tomoki Toda.
