@@ -14,10 +14,14 @@ redirect_from:
 * **M.S. in Japan**: Japan Advanced Institute of Science and Technology, 2017
 * **Ph.D. in Japan**: Nagoya University, 2025 (expected)
 
+---
+
 ## Work experience
 * **2020 - 2022: Algorithm Researcher**
   * AI Research Institute, Hithink RoyalFlush
   * Duties included: Emotion recognition; Emotion synthesis
+
+---
 
 ## Academic activities
 * **Reviewer:**
@@ -25,12 +29,16 @@ redirect_from:
   * Asia-Pacific Signal and Information Processing Association (APSIPA ASC) (2023)
   * IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) (2023)
 
+---
+
 ## Publications
 
 ### Journal
 * **Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.  
   *IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, pp. 2534-2547, June 2023.
+
+---
 
 ### Conference
 * **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
