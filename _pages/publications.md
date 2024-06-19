@@ -34,3 +34,9 @@ author_profile: true
 * **Dimensional Emotion Prediction Based on Interactive Context in Conversation.**  
   <u>Xiaohan Shi</u>, Sixia Li, Jianwu Dang.  
   *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
+
+---
+
+### arXiv
+* **On the effectiveness of asr representations in real-world noisy speech emotion recognition.**  
+  <u>Xiaohan Shi</u>,  Jiajun He, Xingfeng Li, Tomoki Toda. 
