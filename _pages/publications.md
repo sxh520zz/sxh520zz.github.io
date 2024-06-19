@@ -41,6 +41,9 @@ author_profile: true
 * **On the effectiveness of asr representations in real-world noisy speech emotion recognition.**  
   <u>Xiaohan Shi</u>,  Jiajun He, Xingfeng Li, Tomoki Toda. 
 * **Two-stage Framework for Robust Speech Emotion Recognition in Human Speech Noise Conditions.**  
-  <u>Xiaohan Shi</u>,  Jiajun He, Xingfeng Li, Tomoki Toda.
+  Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
+  Submitted to *SLT 2024*
 * **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
-  <u>Xiaohan Shi</u>,  Jiajun He, Xingfeng Li, Tomoki Toda. 
+  Xingfeng Li, <u>Xiaohan Shi</u>, Yongwei Li, Zhengxia Wang, Qingchen Zhang, Masashi Unoki, Masato Akagi.  
+  Submitted to *APSIPA ASC 2024*
+
