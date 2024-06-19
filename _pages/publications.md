@@ -16,7 +16,7 @@ author_profile: true
 
 ### Conference
 * **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.
   *In Proc. INTERSPEECH*, 2024. (Accepted)
 
 * **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
@@ -39,10 +39,15 @@ author_profile: true
 
 ### arXiv & Under Review
 * **On the effectiveness of asr representations in real-world noisy speech emotion recognition.**  
-  <u>Xiaohan Shi</u>,  Jiajun He, Xingfeng Li, Tomoki Toda. 
+  <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Tomoki Toda.  
+  arXiv preprint arXiv:2311.07093
+
+  
 * **Two-stage Framework for Robust Speech Emotion Recognition in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
   Submitted to *SLT 2024*
+
+  
 * **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yongwei Li, Zhengxia Wang, Qingchen Zhang, Masashi Unoki, Masato Akagi.  
   Submitted to *APSIPA ASC 2024*
