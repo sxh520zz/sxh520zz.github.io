@@ -17,6 +17,7 @@ You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_V
 
 Updates
 ======
+- Jun 2024: メイク・ニュー・スタンダード次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: First author paper accepted at **INTERSPEECH 2024** (Kos, Greek). 
 - Dec 2023: Co-First author [paper](https://arxiv.org/abs/2401.13260) accepted at **ICASSP 2024** (Seoul, South Korea). 
 - Jul 2023: Co-authored [paper](https://dl.acm.org/doi/abs/10.1145/3607865.3613182) accepted at **MRAC 2023** (Ottawa, Canada).
