@@ -53,4 +53,7 @@ author_profile: true
   Submitted to *APSIPA ASC 2024*
 
 * **A Three-Layer Model Approach for Enhancing Self-Supervised Learning Representations in Multilingual Speech Emotion Recognition.**  
-  Xingfeng Li, <u>Xiaohan Shi</u>, Tomoki Toda, Masashi Unoki, Masato Akagi.  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Tomoki Toda, Masashi Unoki, Masato Akagi.
+
+* **M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**  
+  Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
