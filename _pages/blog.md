@@ -13,7 +13,7 @@ redirect_from:
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: One paper (Second author) submitted to SLT 2024.
 - Jun 2024: First author paper accepted at **INTERSPEECH 2024** (Kos, Greece).
-- Feb 2022: One paper (First author) and two papers (Second author) submitted to INTERSPEECH 2024.
+- Mar 2024: One paper (First author) and two papers (Second author) submitted to INTERSPEECH 2024.
 - Dec 2023: Co-First author paper accepted at **ICASSP 2024** (Seoul, South Korea).
 - Sep 2023: One paper (First author) and one paper (Co-First author) submitted to ICASSP 2024.
 - July 2023: Co-authored paper accepted at **MRAC 2023** (Ottawa, Canada).
