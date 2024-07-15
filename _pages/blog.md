@@ -22,11 +22,11 @@ redirect_from:
 - Jun 2023: Started as a reviewer for **Speech Communication**.
 - Jun 2023: Co-authored paper accepted to **IEEE Transactions ASLP**.
 - May 2023: First author paper accepted at **INTERSPEECH 2023** (Dublin, Ireland).
-- Mar 2023: One paper (First author) to INTERSPEECH 2023.
+- Mar 2023: One paper (First author) submitted to INTERSPEECH 2023.
 - Sep 2022: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
 - Feb 2022: Resigned from the AI Research Institute at Hithink RoyalFlush.
 - Oct 2020: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China).
 - Sep 2020: Obtained my master’s degree at Japan Advanced Institute of Science and Technology.
 - July 2020: First author paper accepted at **INTERSPEECH 2020** (Shanghai, China).
-- May 2020: One paper (First author) to INTERSPEECH 2020.
+- May 2020: One paper (First author) submitted to INTERSPEECH 2020.
 - Apr 2018: Started my master’s degree at Japan Advanced Institute of Science and Technology (Ishikawa, Japan).
