@@ -42,16 +42,18 @@ author_profile: true
   <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Tomoki Toda.  
   arXiv preprint arXiv:2311.07093
 
-  
 * **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
   Submitted to *SLT 2024*
 
-  
 * **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
   Submitted to *APSIPA ASC 2024*
 
+* **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**
+  <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.
+  Submitted to *APSIPA ASC 2024* 
+   
 * **A Three-Layer Model Approach for Enhancing Self-Supervised Learning Representations in Multilingual Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Tomoki Toda, Masashi Unoki, Masato Akagi.
 
