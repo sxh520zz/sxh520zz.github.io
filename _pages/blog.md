@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Timeline
-
 - Jul 2022: One paper (First author) and one paper (Second author) submitted to **APSIPA ASC 2024** (Macau, China).
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: One paper (Second author) submitted to SLT 2024.
