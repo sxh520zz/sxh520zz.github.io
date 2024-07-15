@@ -50,8 +50,8 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
   Submitted to *APSIPA ASC 2024*
 
-* **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**
-  <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.
+* **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**  
+  <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   Submitted to *APSIPA ASC 2024* 
    
 * **A Three-Layer Model Approach for Enhancing Self-Supervised Learning Representations in Multilingual Speech Emotion Recognition.**  
