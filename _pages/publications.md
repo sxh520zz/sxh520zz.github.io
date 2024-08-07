@@ -16,7 +16,7 @@ author_profile: true
 
 ### Conference
 * **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   *In Proc. INTERSPEECH*, 2024. (Accepted)
 
 * **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
@@ -44,7 +44,7 @@ author_profile: true
 
 * **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
-  Submitted to *SLT 2024*
+  Submitted to *APSIPA ASC 2024*
 
 * **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
@@ -58,4 +58,7 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Tomoki Toda, Masashi Unoki, Masato Akagi.
 
 * **M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**  
-  Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
+  Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.
+
+* **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
+  Yongwei Li, Feng Du, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi.  
