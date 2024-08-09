@@ -13,8 +13,8 @@ I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/
 
 From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
-You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+<!-- You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 Updates
 ======
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
