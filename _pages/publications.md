@@ -54,8 +54,8 @@ author_profile: true
   <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   Submitted to *APSIPA ASC 2024* 
    
-* **A Three-Layer Model Approach for Enhancing Self-Supervised Learning Representations in Multilingual Speech Emotion Recognition.**  
-  Xingfeng Li, <u>Xiaohan Shi</u>, Tomoki Toda, Masashi Unoki, Masato Akagi.
+* **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.
 
 * **M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**  
   Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.
