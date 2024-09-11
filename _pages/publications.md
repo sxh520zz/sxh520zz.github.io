@@ -52,12 +52,15 @@ author_profile: true
 
 * **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**  
   <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
-  Submitted to *APSIPA ASC 2024* 
-   
+  Submitted to *APSIPA ASC 2024*
+     
 * **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Knowledge-Based Systems*
 
+* **Revisiting Pitch: From Music to Speech, Using Colored Pitch to Enhance Emotion and Speaker Recognition.**  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang.  
+  
 * **M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**  
   Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.
 
