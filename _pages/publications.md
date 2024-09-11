@@ -17,7 +17,7 @@ author_profile: true
 ### Conference
 * **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
-  *In Proc. INTERSPEECH*, 2024. (Accepted)
+  *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
 
 * **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
   Jiajun He\*, <u>Xiaohan Shi</u>\*, Xingfeng Li, Tomoki Toda.  
