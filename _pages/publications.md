@@ -15,6 +15,19 @@ author_profile: true
 ---
 
 ### Conference
+* **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**  
+  <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
+  *APSIPA ASC 2024*
+
+  
+* **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
+  Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
+  *APSIPA ASC 2024*
+
+* **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
+  *APSIPA ASC 2024*
+
 * **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
@@ -41,18 +54,6 @@ author_profile: true
 * **On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**  
   <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Tomoki Toda.  
   arXiv preprint arXiv:2311.07093
-
-* **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
-  Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
-  Submitted to *APSIPA ASC 2024*
-
-* **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
-  Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
-  Submitted to *APSIPA ASC 2024*
-
-* **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
-  Submitted to *APSIPA ASC 2024*
      
 * **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
