@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+- Sep 2024: First-author and two second-author papers accepted at **APSIPA ASC 2024** (Macau, China).
 - July 2024: One paper (First author) and two papers (Second author) submitted to APSIPA ASC 2024.
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: One paper (Second author) submitted to SLT 2024.
