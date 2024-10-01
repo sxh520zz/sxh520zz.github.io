@@ -19,6 +19,21 @@ author_profile: true
   <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   *APSIPA ASC 2024*
 
+* **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
+  *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
+
+* **Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
+  *In Proc. INTERSPEECH*, pp.765-769, 2023.
+  
+* **Dimensional Emotion Prediction Based on Interactive Context in Conversation.**  
+  <u>Xiaohan Shi</u>, Sixia Li, Jianwu Dang.  
+  *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
+  
+* **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
+  Jiajun He\*, <u>Xiaohan Shi</u>\*, Xingfeng Li, Tomoki Toda.  
+  *In Proc. IEEE-ICASSP*, pp.11066-11070, 2024.
   
 * **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
@@ -28,25 +43,10 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
   *APSIPA ASC 2024*
 
-* **Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
-  *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
-
-* **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
-  Jiajun He\*, <u>Xiaohan Shi</u>\*, Xingfeng Li, Tomoki Toda.  
-  *In Proc. IEEE-ICASSP*, pp.11066-11070, 2024.
-
-* **Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
-  *In Proc. INTERSPEECH*, pp.765-769, 2023.
-
 * **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
 
-* **Dimensional Emotion Prediction Based on Interactive Context in Conversation.**  
-  <u>Xiaohan Shi</u>, Sixia Li, Jianwu Dang.  
-  *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
 
 ---
 
