@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a second-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
+I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). My research interests include emotion recognition, synthesis, conversion, and dialogue systems.
 
 I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
 
