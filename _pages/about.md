@@ -17,7 +17,7 @@ From October 2020 to April 2022, I was an algorithm researcher at the AI Researc
 <!-- You can find my CV here: [SHI Xiaohan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 Updates
 ======
-- Sep 2024: First-author paper and two co-authored papers [1,2] accepted at **APSIPA ASC 2024** (Macau, China). 
+- Sep 2024: First-author paper and two co-authored [paper, paper] accepted at **APSIPA ASC 2024** (Macau, China). 
 - Jun 2024: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - Jun 2024: First author [paper](https://www.isca-archive.org/interspeech_2024/shi24i_interspeech.pdf) accepted at **INTERSPEECH 2024** (Kos, Greek). 
 - Dec 2023: Co-First author [paper](https://arxiv.org/abs/2401.13260) accepted at **ICASSP 2024** (Seoul, South Korea). 
