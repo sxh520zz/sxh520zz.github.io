@@ -64,7 +64,7 @@ author_profile: true
   Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
 
 * **Revisiting Pitch: From Music to Speech, Using Colored Pitch to Enhance Emotion and Speaker Recognition.**  
-  Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang, Yongwei Li, Yang Liu.
+  Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang, Yongwei Li, Yang Liu.  
   Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
 
 * **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
