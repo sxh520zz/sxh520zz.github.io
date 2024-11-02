@@ -11,6 +11,7 @@ author_profile: true
 1. **Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi.  
   *IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, pp. 2534-2547, June 2023.
+   
 2. **On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**  
   <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Tomoki Toda.  
   arXiv preprint arXiv:2311.07093
@@ -19,18 +20,16 @@ author_profile: true
   Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
 
-4. **Revisiting Pitch: From Music to Speech, Using Colored Pitch to Enhance Emotion and Speaker Recognition.**  
-  Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang, Yongwei Li, Yang Liu.  
-  Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
-
-5. **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
+4. **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Knowledge-Based Systems*
 
-7. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
+5. **Revisiting Pitch: From Music to Speech, Using Colored Pitch to Enhance Emotion and Speaker Recognition.**  
+  Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang, Yongwei Li, Yang Liu.
+
+6. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, Feng Du, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi.
-  Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
-  
+
 ---
 
 ### Conference
