@@ -28,7 +28,7 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Feifei Cui, Zilong Zhang, Yongwei Li, Yang Liu.
 
 6. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
-  Yongwei Li, Feng Du, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi.
+  Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.
 
 ---
 
@@ -56,10 +56,12 @@ author_profile: true
 6. **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
   *APSIPA ASC 2024*
-7. **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
+
+8. **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
   *APSIPA ASC 2024*
-8. **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
+   
+10. **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
 
