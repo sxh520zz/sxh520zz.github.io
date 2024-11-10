@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Oct 2024: One paper (Second author) submitted to IEEE Transactions ASLP.
 - Sep 2024: One paper (Second author) submitted to IEEE Transactions ASLP.
 - Sep 2024: First-author and two second-author papers accepted at **APSIPA ASC 2024** (Macau, China).
 - July 2024: One paper (First author) and two papers (Second author) submitted to APSIPA ASC 2024.
