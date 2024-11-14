@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+- Nov 2024: One paper (Second author) Submitted to Knowledge-Based Systems
 - Sep 2024: One paper (Second author) submitted to IEEE Transactions ASLP.
 - Sep 2024: First-author and two second-author papers accepted at **APSIPA ASC 2024** (Macau, China).
 - July 2024: One paper (First author) and two papers (Second author) submitted to APSIPA ASC 2024.
