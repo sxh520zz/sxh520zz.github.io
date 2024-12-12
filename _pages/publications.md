@@ -22,7 +22,7 @@ author_profile: true
 
 4. **The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
-  Submitted to *Knowledge-Based Systems*
+  Submitted to *Speech Communication*
 
 6. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.
