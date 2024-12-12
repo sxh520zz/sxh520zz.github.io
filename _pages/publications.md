@@ -44,7 +44,7 @@ author_profile: true
 
 4. **A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**  
   <u>Xiaohan Shi</u>, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
-  *APSIPA ASC 2024*
+  *Proc. APSIPA ASC, Macau, China, Dec. 2024*
 
 5. **Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**  
   Jiajun He\*, <u>Xiaohan Shi</u>\*, Xingfeng Li, Tomoki Toda.  
@@ -52,11 +52,11 @@ author_profile: true
   
 6. **Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**  
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
-  *APSIPA ASC 2024*
+  *Proc. APSIPA ASC, Macau, China, Dec. 2024*
 
 8. **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
-  *APSIPA ASC 2024*
+  *Proc. APSIPA ASC, Macau, China, Dec. 2024*
    
 10. **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
