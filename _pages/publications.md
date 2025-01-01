@@ -69,7 +69,7 @@ author_profile: true
   Hithink AI Lab, **Nagoya University**, Hainan University, Kyoto University.  
    Track 1: **7**/23  
    Track 2: **8**/23  
-   Track 2: **4**/15  
+   Track 3: **4**/15  
    
 2. **Odyssey 2024: Speech Emotion Recognition Challenge.**  
   **Nagoya University**, Kyoto University, City University of Macau.   
