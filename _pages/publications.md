@@ -62,3 +62,16 @@ author_profile: true
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
 
+---
+
+### Challenge
+1. **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
+  **Hithink AI Lab** (Jingguang Tian, Desheng Hu, Xinkang Xu, Xinhui Hu), **Nagoya University** (<u>Xiaohan Shi</u>, Jiajun He, Tomoki Toda), **Hainan University** (Xingfeng Li), **Kyoto University** (Yuan Gao).  
+   Track 1: **7**/23  
+   Track 2: **8**/23  
+   Track 2: **4**/15  
+   
+2. **Odyssey 2024: Speech Emotion Recognition Challenge.**  
+  **Nagoya University** (<u>Xiaohan Shi</u>, Jiajun He, Jinyi Mi, Tomoki Toda), **Kyoto University** (Yuan Gao), **City University of Macau** (Xingfeng Li).   
+   Track 1: **11**/17  
+   Track 2: **5**/15  
