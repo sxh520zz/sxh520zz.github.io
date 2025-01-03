@@ -24,14 +24,14 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Speech Communication*
 
- **Waiting for submission**
-
 5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.
+  *Waiting for submission*
 
 6. **Leveraging Emotion Similarity and Shift for Emotion Prediction in Conversation.**  
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
-
+  *Waiting for submission*
+   
 ---
 
 ### Conference
