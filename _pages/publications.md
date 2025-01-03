@@ -25,7 +25,7 @@ author_profile: true
   Submitted to *Speech Communication*
 
 5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
-  Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.
+  Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.  
   *Waiting for submission*
 
 6. **Leveraging Emotion Similarity and Shift for Emotion Prediction in Conversation.**  
