@@ -14,7 +14,7 @@ author_profile: true
    
 2. **On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**  
   <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Tomoki Toda.  
-  arXiv preprint arXiv:2311.07093
+  Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*
      
 3. **M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**  
   Jiajun He, <u>Xiaohan Shi</u>, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
@@ -24,8 +24,13 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Speech Communication*
 
-6. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
+ **Waiting for submission**
+
+5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.
+
+6. **Leveraging Emotion Similarity and Shift for Emotion Prediction in Conversation.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
 
 ---
 
@@ -54,24 +59,29 @@ author_profile: true
   Jinyi Mi, <u>Xiaohan Shi</u>, Takuya Fujimura, Tomoki Toda.  
   *Proc. APSIPA ASC, Macau, China, Dec. 2024*
 
-8. **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
+7. **BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**  
   Xingfeng Li, <u>Xiaohan Shi</u>, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi.  
   *Proc. APSIPA ASC, Macau, China, Dec. 2024*
    
-10. **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
+8. **Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**  
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
+
+9. **Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
+  Submitted to *INTERSPEECH 2025*
 
 ---
 
 ### Challenge
 1. **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
   Hithink AI Lab, **Nagoya University**, Hainan University, Kyoto University.  
-   Track 1: **7**/23  
-   Track 2: **8**/23  
-   Track 3: **4**/15  
+   Track 1: **7**/23;  Track 2: **8**/23;  Track 3: **4**/15.  
    
 2. **Odyssey 2024: Speech Emotion Recognition Challenge.**  
   **Nagoya University**, Kyoto University, City University of Macau.   
-   Track 1: **11**/17  
-   Track 2: **5**/15  
+   Track 1: **11**/17;  Track 2: **5**/15.
+
+2. **Interspeech 2025: Speech Emotion Recognition in Naturalistic Conditions Challenge.**  
+  **Nagoya University**, City University of Macau.   
+   Track 1: -- 
