@@ -24,13 +24,13 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Speech Communication*
 
-5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
+<!--5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.  
   *Waiting for submission*
 
 6. **Leveraging Emotion Similarity and Shift for Emotion Prediction in Conversation.**  
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
-  *Waiting for submission*
+  *Waiting for submission* -->
    
 ---
 
@@ -67,8 +67,12 @@ author_profile: true
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
 
-9. **Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
+9. **Context and Speaker-Sensitive Emotion Recognition with Mamba.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Jinyi Mi, Tomoki Toda.  
+  Submitted to *INTERSPEECH 2025*
+
+10. **Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Jinyi Mi, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
 ---
