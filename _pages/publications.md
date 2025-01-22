@@ -24,6 +24,10 @@ author_profile: true
   Xingfeng Li, <u>Xiaohan Shi</u>, Masashi Unoki, Tomoki Toda, Masato Akagi.  
   Submitted to *Speech Communication*
 
+5. **HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**  
+  Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, <u>Xiaohan Shi</u>.  
+  Submitted to *IEEE Internet of Things Journal*
+
 <!--5. **A comparative study of acoustic features and speech pre-trained embeddings for speech emotion recognition.**  
   Yongwei Li, <u>Xiaohan Shi</u>, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du.  
   *Waiting for submission*
