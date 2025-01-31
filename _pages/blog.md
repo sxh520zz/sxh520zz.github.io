@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Jun 2025: One paper (Last author) submitted to IEEE Internet of Things Journal
+- Jun 2025: One paper (Last author) submitted to Engineering Applications of Artificial Intelligence.
 - Jun 2025: One paper (First author) submitted to IEEE Transactions ASLP.
 - Dec 2024: One paper (Second author) Submitted to Speech Communication.
 - Sep 2024: One paper (Second author) submitted to IEEE Transactions ASLP.
