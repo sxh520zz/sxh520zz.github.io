@@ -92,4 +92,4 @@ author_profile: true
 
 2. **Interspeech 2025: Speech Emotion Recognition in Naturalistic Conditions Challenge.**  
   **Nagoya University**, City University of Macau.   
-   Track 1: -- 
+   Track 1: **6**/43; 
