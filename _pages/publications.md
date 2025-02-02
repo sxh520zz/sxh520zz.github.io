@@ -72,11 +72,11 @@ author_profile: true
   *In Proc. MRAC*, pp.67–73, 2023.
 
 9. **Context and Speaker-Sensitive Emotion Recognition with Mamba.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Jinyi Mi, Tomoki Toda.  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
 10. **Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**  
-  <u>Xiaohan Shi</u>, Xingfeng Li, Jinyi Mi, Tomoki Toda.  
+  <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
 ---
