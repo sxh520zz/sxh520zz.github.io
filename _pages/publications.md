@@ -79,6 +79,10 @@ author_profile: true
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
+11. **The NU System for INTERSPEECH 2025 Speech Emotion Recognition Challenge.**  
+  <u>Xiaohan Shi</u>,  Jinyi Mi,  Kaimeng Ren, Xingfeng Li, Tomoki Toda.  
+  Submitted to *INTERSPEECH 2025*
+  
 ---
 
 ### Challenge
