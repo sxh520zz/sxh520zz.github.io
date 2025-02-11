@@ -44,3 +44,4 @@ Duties included: Emotion recognition; Emotion synthesis
 1. 石川県私費外国人留学生奨学金, Oct 2019 – Oct 2020.
 2. 東海国立大学機構融合フロンティア次世代研究事業（融合フロンティア次世代リサーチャー）, Oct 2022 – Oct 2025.
 3. MNS次世代研究事業 2024年度 高貢献 RESEARDENT, Jun 2024 – Mar 2025.
+4. MNS次世代研究事業 2025年度 高貢献 RESEARDENT, Mar 2025 – Oct 2025.
