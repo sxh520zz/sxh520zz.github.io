@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-- Feb 2025: Three papers submitted to INTERSPEECH 2025.
+- Feb 2025: Three papers (First author) submitted to INTERSPEECH 2025.
 - Jun 2025: MNS次世代研究事業 2025年度 高貢献 RESEARDENT.
 - Jun 2025: One paper (Last author) submitted to Engineering Applications of Artificial Intelligence.
 - Jun 2025: One paper (First author) submitted to IEEE Transactions ASLP.
