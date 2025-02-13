@@ -80,7 +80,7 @@ author_profile: true
   Submitted to *INTERSPEECH 2025*
 
 11. **The NU System for INTERSPEECH 2025 Speech Emotion Recognition Challenge.**  
-  <u>Xiaohan Shi</u>,  Jinyi Mi,  Kaimeng Ren, Xingfeng Li, Tomoki Toda.  
+  <u>Xiaohan Shi</u>, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
   
 ---
@@ -95,5 +95,5 @@ author_profile: true
    Track 1: **11**/17;  Track 2: **5**/15.
 
 2. **Interspeech 2025: Speech Emotion Recognition in Naturalistic Conditions Challenge.**  
-  **Nagoya University**, City University of Macau.   
+  **Nagoya University**, City University of Macau, Ant Group.   
    Track 1: **6**/43; 
