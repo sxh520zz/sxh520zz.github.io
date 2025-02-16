@@ -71,7 +71,7 @@ author_profile: true
   Jingguang Tian\*, Desheng Hu\*, <u>Xiaohan Shi</u>, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu.  
   *In Proc. MRAC*, pp.67–73, 2023.
 
-9. **Context and Speaker-Sensitive Emotion Recognition with Mamba.**  
+9. **Who, When, and What: Leveraging the Three Ws Concept for Emotion Recognition in Conversation.**  
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
@@ -79,7 +79,7 @@ author_profile: true
   <u>Xiaohan Shi</u>, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
 
-11. **The NU System for INTERSPEECH 2025 Speech Emotion Recognition Challenge.**  
+11. **Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Text, and Context Representations.**  
   <u>Xiaohan Shi</u>, Jinyi Mi, Xingfeng Li, Tomoki Toda.  
   Submitted to *INTERSPEECH 2025*
   
