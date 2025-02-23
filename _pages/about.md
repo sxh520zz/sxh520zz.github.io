@@ -75,6 +75,16 @@ My research interests include emotion recognition, synthesis, conversion, and di
 
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
+# 🎏 Competitions
+- **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
+   Track 1: **7**/23;  Track 2: **8**/23;  Track 3: **4**/15.
+
+- **Odyssey 2024: Speech Emotion Recognition Challenge.**  
+   Track 1: **11**/17;  Track 2: **5**/15.
+
+- **Interspeech 2025: Speech Emotion Recognition in Naturalistic Conditions Challenge.**  
+   Track 1: **6**/43.
+
 # 🎖 Honors and Awards
 *Fellowship:*
 - *2019.10 - 2020.10* 石川県私費外国人留学生奨学金. 
