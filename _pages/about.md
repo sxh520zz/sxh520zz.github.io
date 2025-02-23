@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. 
+I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the Information Technology Center at Nagoya University. 
 
 Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology. From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
-My research interests include emotion recognition, synthesis, conversion, and dialogue systems. 
+My research interests include emotion recognition, emotion synthesis, emotion conversion, and dialogue systems. 
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
@@ -34,7 +34,7 @@ My research interests include emotion recognition, synthesis, conversion, and di
 
 # 🔥 News
 - *2025.01*: MNS次世代研究事業 2025年度 高貢献 RESEARDENT.. 
-- *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored [paper,paper] accepted at APSIPA ASC 2024 (Macau, China).
+- *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China).
 - *2024.06*: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek).
 - *2023.12*: &nbsp;🎉🎉 Co-First author paper accepted at ICASSP 2024 (Seoul, South Korea).
@@ -52,7 +52,7 @@ My research interests include emotion recognition, synthesis, conversion, and di
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
-- Jiajun He, **Xiaohan Shi**, JCheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
 
