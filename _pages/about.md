@@ -50,10 +50,10 @@ My research interests include emotion recognition, synthesis, conversion, and di
 
 # 📝 Publications 
 *Journal:*
-- <code class="language-plaintext highlighter-rouge">IEEE Transactions ASLP</code> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing* Vol. 31, pp. 2534-2547, June 2023.
+- <div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid blue;"><code>IEEE Transactions ASLP</code> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing* Vol. 31, pp. 2534-2547, June 2023.
 
 *Conference:*
-- <code class="language-plaintext highlighter-rouge">INTERSPEECH</code> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
+- <div style="background-color: #f2f2f2; padding: 10px; border-left: 6px solid blue;"><code>INTERSPEECH</code> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
   
 - <code class="language-plaintext highlighter-rouge">INTERSPEECH</code> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation.**" *In Proc. INTERSPEECH*, pp.765-769, 2023.
 
