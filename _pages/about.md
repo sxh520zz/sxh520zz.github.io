@@ -50,6 +50,14 @@ My research interests include emotion recognition, synthesis, conversion, and di
 *Journal:*
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing* Vol. 31, pp. 2534-2547, June 2023.
 
+- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
+- Jiajun He, **Xiaohan Shi**, JCheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
+- Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
+
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Engineering Applications of Artificial Intelligence*.
+
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
 
@@ -66,7 +74,7 @@ My research interests include emotion recognition, synthesis, conversion, and di
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Xingfeng Li, **Xiaohan Shi**, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi. "**BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
- 
+
 # 🎖 Honors and Awards
 *Fellowship:*
 - *2019.10 - 2020.10* 石川県私費外国人留学生奨学金. 
