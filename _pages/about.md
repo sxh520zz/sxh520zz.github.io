@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. 
-
-Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
+I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
 
 From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
@@ -77,7 +75,7 @@ My research interests include emotion recognition, synthesis, conversion, and di
 - *2025.03 - 2025.10* MNS次世代研究事業 2025年度 高貢献 RESEARDENT.
   
 *Reviewer:*
-- *2023.06 - now* Speech Communication.
+- *2023.06 - (Now)* Speech Communication.
 - *2023.07* Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07* IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) (2023).
   
