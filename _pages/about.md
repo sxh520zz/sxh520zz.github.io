@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology.
+I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by Prof. [Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the School of Informatics at Nagoya University. 
 
-From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
+Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology. From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
 My research interests include emotion recognition, synthesis, conversion, and dialogue systems. 
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,7 +29,7 @@ My research interests include emotion recognition, synthesis, conversion, and di
 - *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 
 - *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China.
 
-# 💻 Working Experiences
+# 💻 Careers
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
