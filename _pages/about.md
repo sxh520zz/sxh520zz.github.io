@@ -25,26 +25,26 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2022.10 - 2025.10 (Now)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 
-- *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 
-- *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China.
+- *2022.10 - 2025.10 (Now)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
+- *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 🇯🇵
+- *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China. 🇨🇳
 
 # 💻 Careers
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
 - *2025.01*: MNS次世代研究事業 2025年度 高貢献 RESEARDENT.. 
-- *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China).
+- *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China). 🇲🇴
 - *2024.06*: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
-- *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek).
-- *2023.12*: &nbsp;🎉🎉 Co-First author paper accepted at ICASSP 2024 (Seoul, South Korea).
-- *2023.07*: &nbsp;🎉🎉 Co-authored paper accepted at MRAC 2023 (Ottawa, Canada).
+- *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek). 🇬🇷
+- *2023.12*: &nbsp;🎉🎉 Co-First author paper accepted at ICASSP 2024 (Seoul, South Korea). 🇰🇷
+- *2023.07*: &nbsp;🎉🎉 Co-authored paper accepted at MRAC 2023 (Ottawa, Canada). 🇨🇦
 - *2023.06*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
-- *2023.05*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2023 (Dublin, Ireland).
-- *2022.09*: Started my Ph.D. degree at Nagoya University (Aichi, Japan).
-- *2020.10*: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China).
-- *2020.05*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2020 (Shanghai, China).
-- *2018.04*: Started my master’s degree at Japan Advanced Institute of Science and Technology (Ishikawa, Japan).
+- *2023.05*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2023 (Dublin, Ireland). 🇮🇪
+- *2022.09*: Started my Ph.D. degree at Nagoya University (Aichi, Japan). 🇯🇵
+- *2020.10*: Joined the AI Research Institute at Hithink RoyalFlush (Hangzhou, China). 🇨🇳
+- *2020.05*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2020 (Shanghai, China). 🇨🇳
+- *2018.04*: Started my master’s degree at Japan Advanced Institute of Science and Technology (Ishikawa, Japan). 🇯🇵
 
 # 📝 Publications 
 *Journal:*
