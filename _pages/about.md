@@ -88,14 +88,14 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 # 🎖 Honors and Awards
 *Fellowship:*
 - *2019.10 - 2020.10*, 石川県私費外国人留学生奨学金. 
-- *2022.10 - 2025.10*, 東海国立大学機構融合フロンティア次世代研究事業（融合フロンティア次世代リサーチャー）.
+- *2022.10 - 2025.10*, 東海国立大学機構融合フロンティア次世代研究事業(融合フロンティア次世代リサーチャー).
 - *2024.06 - 2025.03*, MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - *2025.03 - 2025.10*, MNS次世代研究事業 2025年度 高貢献 RESEARDENT.
   
 *Reviewer:*
 - *2023.06 - (Now)*, Speech Communication.
 - *2023.07*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
-- *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) (2023).
+- *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
