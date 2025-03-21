@@ -75,6 +75,13 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the ``Three Ws'' Concept for Emotion Recognition in Conversation.**" Submitted to *INTERSPEECH 2025*.
+
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" Submitted to *INTERSPEECH 2025*.
+ 
+- **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" Submitted to *INTERSPEECH 2025*.
+
+  
 # 🎏 Competitions
 - **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
    Track 1: **7**/23;  Track 2: **8**/23;  Track 3: **4**/15.
