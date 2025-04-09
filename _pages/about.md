@@ -52,6 +52,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
 - Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
@@ -81,7 +83,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
  
 - **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" Submitted to *INTERSPEECH 2025*.
 
-  
+- Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**" Submitted to *ICCV 2025*.
+
 # 🎏 Competitions
 - **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
    Track 1: **7**/23;  Track 2: **8**/23;  Track 3: **4**/15.
