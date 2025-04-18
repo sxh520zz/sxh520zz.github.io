@@ -59,6 +59,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Engineering Applications of Artificial Intelligence*.
+  
+- Xingfeng Li, Jiahao Kang, Tian Xu, Kai Li, Yang Liu, **Xiaohan Shi**. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
