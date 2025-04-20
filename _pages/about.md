@@ -62,6 +62,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 - Xingfeng Li, Jiahao Kang, Tian Xu, Kai Li, Yang Liu, **Xiaohan Shi**. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
+- Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
+
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
 
