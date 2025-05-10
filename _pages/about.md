@@ -33,7 +33,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
-- *2025.01*: MNS次世代研究事業 2025年度 高貢献 RESEARDENT.
 - *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China). 🇲🇴
 - *2024.06*: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek). 🇬🇷
@@ -63,6 +62,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - Xingfeng Li, Jiahao Kang, Tian Xu, Kai Li, Yang Liu, **Xiaohan Shi**. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 - Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
+- Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 
 *Conference:*
