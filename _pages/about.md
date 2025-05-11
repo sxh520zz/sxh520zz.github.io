@@ -106,7 +106,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2019.10 - 2020.10*, 石川県私費外国人留学生奨学金. 
 - *2022.10 - 2025.10*, 東海国立大学機構融合フロンティア次世代研究事業(融合フロンティア次世代リサーチャー).
 - *2024.06 - 2025.03*, MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
-- *2025.03 - 2025.10*, MNS次世代研究事業 2025年度 高貢献 RESEARDENT.
   
 *Reviewer:*
 - *2023.06 - (Now)*, Speech Communication.
