@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Three first-author papers accepted at INTERSPEECH 2025 (Rotterdam, Netherlands).
 - *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China). 🇲🇴
 - *2024.06*: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek). 🇬🇷
@@ -73,21 +74,21 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
 
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" *In Proc. INTERSPEECH*, 2025.
+
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" *In Proc. INTERSPEECH*, 2025.
+ 
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, 2025.
+
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> **Xiaohan Shi**, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #fffde7; padding: 3px;"><code>ICASSP</code></span> Jiajun He\*, **Xiaohan Shi\***, Xingfeng Li, Tomoki Toda. "**Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**" *In Proc. IEEE-ICASSP*, pp.11066-11070, 2024
-
+  
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Jinyi Mi, **Xiaohan Shi**, Takuya Fujimura, Tomoki Toda. "**Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Xingfeng Li, **Xiaohan Shi**, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi. "**BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**" *Proc. APSIPA ASC*, 2024.
-
+  
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
-
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" Submitted to *INTERSPEECH 2025*.
-
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" Submitted to *INTERSPEECH 2025*.
- 
-- **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" Submitted to *INTERSPEECH 2025*.
 
 - Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**" Submitted to *ICCV 2025*.
 
