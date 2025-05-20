@@ -58,13 +58,15 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
 
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Engineering Applications of Artificial Intelligence*.
-  
-- Xingfeng Li, Jiahao Kang, Tian Xu, **Xiaohan Shi**, Kai Li, Yang Liu. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *Knowledge-Based Systems*.
+- Yongwei Li, Xiaohan Shi,Xingfeng Li,Yang Liu,Zhen Zhao,Jianhua Tao,Aijun Li,Donna Erickson,Tomoki Toda,Masto Akagi,Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
 
 - Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
 - Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Engineering Applications of Artificial Intelligence*.
+  
+- Xingfeng Li, Jiahao Kang, Tian Xu, **Xiaohan Shi**, Kai Li, Yang Liu. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *Knowledge-Based Systems*.
 
 
 *Conference:*
