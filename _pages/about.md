@@ -34,7 +34,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Three first-author papers accepted at INTERSPEECH 2025 (Rotterdam, Netherlands). 🇳🇱
-- *2024.09*: &nbsp;🎉🎉 First author poster accepted at 2024 APSIPA China-Japan Joint Symposium on Speech and Language Processing (Tianjin, China). 🇨🇳
+- *2024.09*: &nbsp;🎉🎉 First author poster accepted at 2024 APSIPA China-Japan Joint Symposium (Tianjin, China). 🇨🇳
 - *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China). 🇲🇴
 - *2024.06*: MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
 - *2024.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2024 (Kos, Greek). 🇬🇷
