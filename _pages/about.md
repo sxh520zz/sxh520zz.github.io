@@ -116,7 +116,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2023.06 - (Now)*, Speech Communication.
 - *2023.07*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
-- *2025.05* - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
+- *2025.05 - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
