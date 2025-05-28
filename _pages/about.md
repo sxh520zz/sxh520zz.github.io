@@ -55,7 +55,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
-- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing* (Major revision).
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
 
@@ -114,9 +114,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 *Reviewer:*
 - *2023.06 - (Now)*, Speech Communication.
+- *2025.05 - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
 - *2023.07*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
-- *2025.05 - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
