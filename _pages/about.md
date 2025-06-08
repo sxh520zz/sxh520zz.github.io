@@ -61,7 +61,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
 
-- Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
+- Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**" Submitted to *IEEE Transactions on Signal Processing*.
 
 - Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
