@@ -55,6 +55,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing*.
 
+- - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**".
+
 - Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE/ACM Transactions on Audio, Speech and Language Processing* (Major revision).
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *Speech Communication*.
