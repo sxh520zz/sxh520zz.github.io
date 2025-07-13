@@ -25,7 +25,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2022.10 - 2025.10 (Now)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
+- *2022.10 - 2026.04 (Now)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
 - *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 🇯🇵
 - *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China. 🇨🇳
 
@@ -53,7 +53,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**"
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**"
 
@@ -69,10 +69,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Jiahao Kang, Tian Xu, **Xiaohan Shi**, Kai Li, Yang Liu. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
 
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Engineering Applications of Artificial Intelligence*.
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
-
 
 
 *Conference:*
