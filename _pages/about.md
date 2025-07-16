@@ -67,7 +67,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
-- Xingfeng Li, Jiahao Kang, Tian Xu, **Xiaohan Shi**, Kai Li, Yang Liu. "**Revisiting Pitch: From Music to Speech, Using Colored Pitch Analysis to Enhance Emotion and Speaker Recognition.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
+- Xingfeng Li, Jiahao Kang, **Xiaohan Shi**. "**Musically-Inspired Colored Pitch Features for Emotion and Speaker Recognition in Speech.**" Submitted to *Acoustics*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*.
 
