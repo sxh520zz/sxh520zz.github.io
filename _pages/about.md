@@ -77,21 +77,19 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**".
 
 *Under Review:*
-- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
-
 - Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing* (Major revision).
 
+- Xingfeng Li, Jiahao Kang, **Xiaohan Shi**. "**Musically-Inspired Colored Pitch Features for Emotion and Speaker Recognition in Speech.**" Submitted to *Acoustics* (Major revision).
+
+- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
+
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
-
-- Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
-
-- Xingfeng Li, Jiahao Kang, **Xiaohan Shi**. "**Musically-Inspired Colored Pitch Features for Emotion and Speaker Recognition in Speech.**" Submitted to *Acoustics*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
-*waiting for Submission:*
+*Waiting for Submission:*
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**"
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**"
@@ -102,6 +100,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**"
 
+- Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**"
 
 # 🎏 Competitions
 - **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
