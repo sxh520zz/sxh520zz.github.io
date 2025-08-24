@@ -74,12 +74,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
-- Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**".
-
 *Under Review:*
 - Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing* (Major revision).
-
-- Xingfeng Li, Jiahao Kang, **Xiaohan Shi**. "**Musically-Inspired Colored Pitch Features for Emotion and Speaker Recognition in Speech.**" Submitted to *Acoustics* (Major revision).
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
@@ -98,9 +94,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, **Xiaohan Shi**, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**"
 
-- Xingfeng Li, Feifei Yu, **Xiaohan Shi**, Tian Xu, Kai Li, Ningfeng Luo, Yang Liu. "**Phase-Aware Spectrogram Fusion with Dual-Stream Residual Networks for Underwater Acoustic Recognition.**"
-
-- Xingfeng Li, Junjie Li, **Xiaohan Shi**, Yuke Si, Kai Li, Tian Xu. "**Valence-Arousal Emotion Recognition Using A Deep Three-Layer Model with Aural Perceptual Representations.**"
+- Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**".
 
 # 🎏 Competitions
 - **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
