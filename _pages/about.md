@@ -75,7 +75,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
 *Under Review:*
-- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing* (Major revision).
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
@@ -89,6 +88,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**"
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**"
+
+- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**"
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**"
 
