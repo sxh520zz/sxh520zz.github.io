@@ -58,17 +58,17 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" *In Proc. INTERSPEECH*, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" *In Proc. INTERSPEECH*, pp.1763-1767, 2025.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" *In Proc. INTERSPEECH*, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.4333-4337, 2025.
  
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, pp.4693-4697, 2025.
 
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> **Xiaohan Shi**, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #fffde7; padding: 3px;"><code>ICASSP</code></span> Jiajun He\*, **Xiaohan Shi\***, Xingfeng Li, Tomoki Toda. "**Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**" *In Proc. IEEE-ICASSP*, pp.11066-11070, 2024
   
-- <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Jinyi Mi, **Xiaohan Shi**, Takuya Fujimura, Tomoki Toda. "**Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**" *Proc. APSIPA ASC*, 2024.
+- <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Jinyi Mi, **Xiaohan Shi**, Ding Ma, Jiajun He, Takuya Fujimura, Tomoki Toda. "**Two-stage Framework for Robust Speech Emotion Recognition Using Target Speaker Extraction in Human Speech Noise Conditions.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> Xingfeng Li, **Xiaohan Shi**, Yuke Si, Qian Chen, Yang Liu, Masashi Unoki, Masato Akagi. "**BEES: A New Acoustic Task for Blended Emotion Estimation in Speech.**" *Proc. APSIPA ASC*, 2024.
   
