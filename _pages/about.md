@@ -76,13 +76,13 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 *Under Review:*
 
+- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.(Accepted with Mandatory Revisions)
+
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*. (Major Revision)
+
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
-- Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.(MINOR REVISIONS)
-
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
-
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
