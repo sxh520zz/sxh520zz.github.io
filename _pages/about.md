@@ -80,7 +80,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*. (Major Revision)
 
-- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
+- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
 
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
 
