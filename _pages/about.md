@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
 - *2025.05*: &nbsp;🎉🎉 Three first-author papers accepted at INTERSPEECH 2025 (Rotterdam, Netherlands). 🇳🇱
 - *2024.09*: &nbsp;🎉🎉 First author poster accepted at 2024 APSIPA China-Japan Joint Symposium (Tianjin, China). 🇨🇳
 - *2024.09*: &nbsp;🎉🎉 First author paper and two co-authored papers accepted at APSIPA ASC 2024 (Macau, China). 🇲🇴
@@ -51,7 +52,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 *Journal:*
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing* Vol. 31, pp. 2534-2547, June 2023.
 
-- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*. (Accepted with Mandatory Revisions)
+- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*. September 2025.
 
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
@@ -84,8 +85,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
 
-- Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective Computing*.
-
 - Jinyi Mi, **Xiaohan Shi**, Ding Ma, Jiajun He, Takuya Fujimura, Tomoki Toda. "**Robust Speech Emotion Recognition under Human Speech Noise.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
@@ -98,6 +97,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**"
 
 - Xingfeng Li, **Xiaohan Shi**, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**"
+
+- Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
 
 
 # 🎏 Competitions
