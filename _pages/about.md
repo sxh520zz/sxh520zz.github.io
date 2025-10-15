@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a third-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the Information Technology Center at Nagoya University. 
+I’m a last-year Ph.D. student in the [School of Informatics](https://www.i.nagoya-u.ac.jp/) at [Nagoya University](https://www.nagoya-u.ac.jp/). I am supervised by [Prof. Tomoki Toda](https://sites.google.com/site/tomokitoda/home) from the Information Technology Center at Nagoya University. 
 
 Prior to this, I was supervised by [Prof. Jianwu Dang](https://scholar.google.com/citations?user=Wk5ApskAAAAJ&hl=zh-CN&oi=ao) from the School of Information Science at the Japan Advanced Institute of Science and Technology. From October 2020 to April 2022, I was an algorithm researcher at the AI Research Institute, Hithink RoyalFlush, working on speech emotion recognition and synthesis under the supervision of [Prof. Xinhui Hu](https://scholar.google.com/citations?user=WhCsrgoAAAAJ&hl=zh-CN&oi=ao).
 
