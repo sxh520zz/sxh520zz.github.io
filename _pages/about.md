@@ -83,9 +83,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*. (Major Revision)
 
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
 
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*.
 
 - Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**". Submitted to *Optics And Laser Technology*.
 
@@ -123,6 +123,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2023.06 - (Now)*, Speech Communication.
 - *2025.05 - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
 - *2025.09 - (Now)*, APSIPA Transactions on Signal and Information Processing.
+- *2025.10 - (Now)*, International Journal of Human-Computer Interaction.
+- *2025.10 - (Now)*, Neurocomputing.
 - *2023.07*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
 
