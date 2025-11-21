@@ -89,7 +89,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**"  Submitted to *IEEE Transactions on Affective computing*.
   
-- Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**." Submitted to *Optics And Laser Technology*.
+- Kai Yang, Zijian Bai, Yang Xiao, Xinyu Li, **Xiaohan Shi**. "**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization.**" Submitted to *Optics And Laser Technology*.
 
 - Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *ESANN 2026*.
 
