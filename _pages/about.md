@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Co-authored paper accepted to Ecological Informatics.
 - *2025.09*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
 - *2025.05*: &nbsp;🎉🎉 Three first-author papers accepted at INTERSPEECH 2025 (Rotterdam, Netherlands). 🇳🇱
 - *2024.09*: &nbsp;🎉🎉 First author poster accepted at 2024 APSIPA China-Japan Joint Symposium (Tianjin, China). 🇨🇳
@@ -53,6 +54,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing* Vol. 31, pp. 2534-2547, June 2023.
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*. September 2025.
+  
+- <span style="display: inline; background-color: #f3e8ff; padding: 3px;"><code>Ecological Informatics</code></span> Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" *Ecological Informatics*. December 2025.
 
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
@@ -80,8 +83,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 *Under Review:*
 
 - **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Minor Revision)
-
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" Submitted to *Ecological Informatics*. (Major Revision)
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
 
