@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
 - *2025.12*: &nbsp;🎉🎉 Co-authored paper accepted to Ecological Informatics.
 - *2025.09*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
 - *2025.05*: &nbsp;🎉🎉 Three first-author papers accepted at INTERSPEECH 2025 (Rotterdam, Netherlands). 🇳🇱
@@ -51,6 +52,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 # 📝 Publications 
 *Journal:*
+
+- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Jan. 2026
+
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, pp. 2534-2547, Jun. 2023.
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 33, pp. 4055-4070, Sep. 2025.
@@ -81,8 +85,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
 *Under Review:*
-
-- **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Minor Revision)
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
   
