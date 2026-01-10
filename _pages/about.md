@@ -25,7 +25,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2022.10 - 2026.10 (Now)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
+- *2022.10 - 2026.10 (Expected)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
 - *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 🇯🇵
 - *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China. 🇨🇳
 
@@ -84,10 +84,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
-*Invited Talk:*
-
-- Tomoki Toda, **Xiaohan Shi**. "**Recent advances in speech information processing focusing on speech expression.**" Acoustical Society of Japan, Mar, 2026.
-
 *Under Review:*
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
@@ -108,7 +104,11 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
 
+# 🎤 Invited Talk 
 
+- Tomoki Toda, **Xiaohan Shi**. "**Recent advances in speech information processing focusing on speech expression.**" Acoustical Society of Japan, Mar, 2026.
+
+  
 # 🎏 Competitions
 - **MER 2023: Multi-label Learning, Semi-Supervised Learning, and Modality Robustness.**  
    Track 1: **7**/23;  Track 2: **8**/23;  Track 3: **4**/15.
