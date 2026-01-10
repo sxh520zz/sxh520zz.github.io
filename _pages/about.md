@@ -53,7 +53,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 # 📝 Publications 
 *Journal:*
 
-- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**On the effectiveness of ASR representations in real-world noisy speech emotion recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Jan. 2026
+- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**A Comprehensive Study on the Effectiveness of ASR Representations for Noise-Robust Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 31, Jan. 2026.
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, pp. 2534-2547, Jun. 2023.
 
