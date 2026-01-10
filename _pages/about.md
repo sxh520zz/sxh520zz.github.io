@@ -84,6 +84,10 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 - <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>MRAC</code></span> Jingguang Tian\*, Desheng Hu\*, **Xiaohan Shi**, Jiajun He, Xingfeng Li, Yuan Gao, Tomoki Toda, Xinkang Xu, Xinhui Hu. "**Semi-supervised Multimodal Emotion Recognition with Consensus Decision-making and Label Correction.**" *In Proc. MRAC*, pp.67–73, 2023.
 
+*Invited Talk:*
+
+- Tomoki Toda, **Xiaohan Shi**. "**Recent advances in speech information processing focusing on speech expression.**" Acoustical Society of Japan, Mar, 2026.
+
 *Under Review:*
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
