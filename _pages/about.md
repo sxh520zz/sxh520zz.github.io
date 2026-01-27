@@ -92,12 +92,13 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
 
-- Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**" Submitted to *IEEE Transactions on Affective computing*.
+- Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**" Submitted to *IEEE Transactions on Affective computing*. (Major Revision)
+
+- **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
 
 <!-- Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *ESANN 2026*. -->
  
 *Waiting for Submission:*
-- **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**"
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**"
 
