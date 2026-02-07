@@ -136,8 +136,10 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2025.10 - (Now)*, International Journal of Human-Computer Interaction.
 - *2025.10 - (Now)*, Neurocomputing.
 - *2025.12 - (Now)*, IEEE Transactions on Affective computing.
-- *2023.07*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
-- *2023.07*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
+
+- *2023.07 - (Now)*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
+- *2023.07 - (Now)*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
+- *2026.01 - (Now)*, Interspeech.
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
