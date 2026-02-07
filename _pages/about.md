@@ -98,13 +98,20 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *IJCNN 2026*.
 
-<!-- Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *ESANN 2026*. -->
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" Submitted to *INTERSPEECH 2026*.
+
+- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*.
+
+<!-- **Xiaohan Shi**, Kaimeng Ren, Zhaolong Huang, Tomoki Toda. "**Modeling Emotional Expression in Conversational Speech Synthesis.**" Submitted to *ACM MM 2026*. -->
  
 *Waiting for Submission:*
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**"
 
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
+
+
+  
 
 # 🎤 Invited Talk 
 
@@ -130,6 +137,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2025.10 - 2026.04*, 名古屋大学 研究助理 RA 
   
 *Reviewer:*
+
+Journal：
 - *2023.06 - (Now)*, Speech Communication.
 - *2025.05 - (Now)*, IEEE Transactions on Audio, Speech and Language Processing.
 - *2025.09 - (Now)*, APSIPA Transactions on Signal and Information Processing.
@@ -137,9 +146,11 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2025.10 - (Now)*, Neurocomputing.
 - *2025.12 - (Now)*, IEEE Transactions on Affective computing.
 
+
+Conference：
 - *2023.07 - (Now)*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07 - (Now)*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
-- *2026.01 - (Now)*, Interspeech.
+- *2026.01 - (Now)*, INTERSPEECH.
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
