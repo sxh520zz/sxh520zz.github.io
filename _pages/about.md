@@ -90,7 +90,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
   
 - Jinyi Mi, **Xiaohan Shi**, Ding Ma, Jiajun He, Takuya Fujimura, Tomoki Toda. "**Robust Speech Emotion Recognition under Human Speech Noise.**" Submitted to *Computer Speech & Language*. (Major Revision)
 
-- Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Major Revision)
+- Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Minor Revision)
 
 - Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**" Submitted to *IEEE Transactions on Affective computing*. (Major Revision)
 
