@@ -151,7 +151,8 @@ Conference：
 - *2023.07 - (Now)*, Asia-Pacific Signal and Information Processing Association (APSIPA ASC).
 - *2023.07 - (Now)*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
 - *2026.01 - (Now)*, INTERSPEECH.
-
+- *2026.01 - (Now)*, WCCI.
+- 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
