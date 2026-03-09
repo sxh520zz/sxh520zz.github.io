@@ -61,7 +61,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 33, pp. 4055-4070, Sep. 2025.
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, Ningfeng Luo, Feifei Yu, **Xiaohan Shi**, Junjie Li, Yang Liu. "**Multi-Task Deep Learning with Over-Sampling and Style Randomization for Improved Cross-Regional Bird Vocalization Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 34, Jan. 2026.
-  - 
+
 - <span style="display: inline; background-color: #f3e8ff; padding: 3px;"><code>Ecological Informatics</code></span> Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" *Ecological Informatics*, Dec. 2025.
 
 *Conference:*
@@ -112,8 +112,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
 
 
-  
-
 # 🎤 Invited Talk 
 
 - Tomoki Toda, **Xiaohan Shi**. "**Recent advances in speech information processing focusing on speech expression.**" Acoustical Society of Japan, Mar, 2026.
@@ -135,7 +133,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.04 - 2020.10*, 北陸先端科学技術大学院大学 研究助理 RA 
 - *2022.10 - 2025.10*, 東海国立大学機構融合フロンティア次世代研究事業(融合フロンティア次世代リサーチャー).
 - *2024.06 - 2025.03*, MNS次世代研究事業 2024年度 高貢献 RESEARDENT.
-- *2025.10 - 2026.04*, 名古屋大学 研究助理 RA 
+- *2025.10 - 2026.10*, 名古屋大学 事務補助員 TA 
   
 *Reviewer:*
 
