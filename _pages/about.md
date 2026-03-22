@@ -97,13 +97,13 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
 
-- Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *IJCNN 2026*.
+- Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *SMC 2026*.
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" Submitted to *INTERSPEECH 2026*.
 
-<!--**Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
+- **Xiaohan Shi**, Tomoki Toda. "**W³EDM: 3W-based Emotional Modeling with Emotion Descriptions for Conversational Speech Synthesis.**" Submitted to *ACM MM 2026*
 
-<!-- **Xiaohan Shi**, Kaimeng Ren, Zhaolong Huang, Tomoki Toda. "**Modeling Emotional Expression in Conversational Speech Synthesis.**" Submitted to *ACM MM 2026*. -->
+<!--**Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
  
 *Waiting for Submission:*
 
