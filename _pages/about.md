@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to Computer Speech & Language.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
 - *2026.01*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
 - *2025.12*: &nbsp;🎉🎉 Co-authored paper accepted to Ecological Informatics.
@@ -64,6 +65,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - <span style="display: inline; background-color: #f3e8ff; padding: 3px;"><code>Ecological Informatics</code></span> Xingfeng Li, Ningfeng Luo, Feifei Yu, Junjie Li, Kai Li, Yongwei Li, Zhen Zhao, Yang Liu, **Xiaohan Shi**. "**HARL: Human Auditory Representation Learning for Cross-Dialect Bird Species Recognition.**" *Ecological Informatics*, Dec. 2025.
 
+- <span style="display: inline; background-color: #14B8A6; padding: 3px;"><code>Computer Speech & Language</code></span> Jinyi Mi, **Xiaohan Shi**, Ding Ma, Jiajun He, Takuya Fujimura, Tomoki Toda. "**Robust Speech Emotion Recognition under Human Speech Noise.**" *Computer Speech & Language*, Mar. 2026.
+
+
 *Conference:*
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
 
@@ -91,8 +95,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Minor Revision)
   
-- Jinyi Mi, **Xiaohan Shi**, Ding Ma, Jiajun He, Takuya Fujimura, Tomoki Toda. "**Robust Speech Emotion Recognition under Human Speech Noise.**" Submitted to *Computer Speech & Language*. (Minor Revision)
-
 - Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**" Submitted to *IEEE Transactions on Affective computing*. (Major Revision)
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
