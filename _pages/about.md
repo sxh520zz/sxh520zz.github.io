@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to Computer Speech & Language.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
 - *2026.01*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
@@ -56,7 +57,9 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 *Journal:*
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> **Xiaohan Shi**, Jiajun He, Xingfeng Li, Tomoki Toda. "**A Comprehensive Study on the Effectiveness of ASR Representations for Noise-Robust Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 34, Jan. 2026.
-
+- 
+- <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 34, Jan. 2026.
+- 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Xingfeng Li, **Xiaohan Shi**, Desheng Hu, Yongwei Li, Qingchen Zhang, Zhengxia Wang, Masashi Unoki, Masato Akagi. "**Music Theory-inspired Acoustic Representation for Speech Emotion Recognition.**" *IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, pp. 2534-2547, Jun. 2023.
 
 - <span style="display: inline; background-color: #e6f7ff; padding: 3px;"><code>IEEE Transactions ASLP</code></span> Jiajun He, **Xiaohan Shi**, Cheng-Hung Hu, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**M4SER: Multimodal Multi-Representation Multi-Task Multi-Strategy Learning for Speech Emotion Recognition.**" *IEEE Transactions on Audio, Speech and Language Processing*, Vol. 33, pp. 4055-4070, Sep. 2025.
@@ -93,8 +96,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 *Under Review:*
 
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Similarity and Shift: Modeling Temporal Dynamic Interactions for Emotion Prediction in Conversation.**" Submitted to *IEEE Transactions on Audio, Speech and Language Processing*. (Minor Revision)
-  
 - Xingfeng Li, **Xiaohan Shi**, Junjie Li, Yongwei Li, Masashi Unoki, Tomoki Toda, Masato Akagi. "**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning.**" Submitted to *IEEE Transactions on Affective computing*. (Major Revision)
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**" Submitted to *APSIPA Transactions on Signal and Information Processing*.
