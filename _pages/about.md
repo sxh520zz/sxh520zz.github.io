@@ -106,14 +106,14 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - **Xiaohan Shi**, Tomoki Toda. "**W³EDM: 3W-based Emotional Modeling with Emotion Descriptions for Conversational Speech Synthesis.**" Submitted to *ACM MM 2026*
 
-<!--**Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
+<!-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
  
-*Waiting for Submission:*
+<!--*Waiting for Submission:*
 
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**"
 
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
-
+ -->
 
 # 🎤 Invited Talk 
 
@@ -154,7 +154,8 @@ Conference：
 - *2023.07 - (Now)*, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU).
 - *2026.01 - (Now)*, INTERSPEECH.
 - *2026.01 - (Now)*, WCCI.
-- 
+- *2026.04 - (Now)*, ACM MM.
+
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
