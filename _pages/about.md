@@ -85,6 +85,8 @@ My research interests include emotion recognition, emotion synthesis, emotion co
  
 - <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, pp.4693-4697, 2025.
 
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.XXXX-XXXX, 2026.
+
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> **Xiaohan Shi**, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**" *Proc. APSIPA ASC*, 2024.
 
 - <span style="display: inline; background-color: #fffde7; padding: 3px;"><code>ICASSP</code></span> Jiajun He\*, **Xiaohan Shi\***, Xingfeng Li, Tomoki Toda. "**Mf-Aed-Aec: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, And Asr Error Correction.**" *In Proc. IEEE-ICASSP*, pp.11066-11070, 2024
@@ -103,18 +105,13 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 - Yupei Guo, Jiajun He, **Xiaohan Shi**, Tomoki Toda, Zekun Yang, Bowen Wang, Yukinobu Taniguchi. "**Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News.**" Submitted to *SMC 2026*.
 
-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" Submitted to *INTERSPEECH 2026*.
-
 - **Xiaohan Shi**, Tomoki Toda. "**W³EDM: 3W-based Emotional Modeling with Emotion Descriptions for Conversational Speech Synthesis.**" Submitted to *ACM MM 2026*
 
 <!-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
  
-<!--*Waiting for Submission:*
-
 - Xingfeng Li, **Xiaohan Shi**, Masashi Unoki, Tomoki Toda, Masato Akagi. "**The Contribution of Perceptual Semantic Primitives to Self-Supervised Learning Representations for Bilingual Speech Emotion Recognition.**"
 
-- Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**"
- -->
+<!-- Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Jianhua Tao, Aijun Li, Donna Erickson, Tomoki Toda, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" -->
 
 # 🎤 Invited Talk 
 
@@ -159,7 +156,6 @@ Conference：
 
 # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-
 
 <!-- 
 # 💬 Invited Talks
