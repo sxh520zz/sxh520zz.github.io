@@ -33,6 +33,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2026 (Sydney, Australia).
 - *2026.04*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to Computer Speech & Language.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to IEEE Transactions ASLP.
