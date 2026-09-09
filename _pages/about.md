@@ -25,14 +25,16 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 <!-- I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2022.10 - 2026.10 (Expected)*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
-- *2019.04 - 2020.10*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 🇯🇵
+- *2022.10 - 2026.09*, [Nagoya University](https://www.nagoya-u.ac.jp/), Aichi, Japan. 🇯🇵
+- *2019.04 - 2020.09*,  [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/index.html), Ishikawa, Japan. 🇯🇵
 - *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China. 🇨🇳
 
 # 💻 Careers
 - *2020.10 - 2022.04*, AI Research Institute, Hithink RoyalFlush, Hangzhou, China. 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 First author paper accepted at SLT 2026 (Sicily, Italy). 🇮🇹
+- *2026.09*: &nbsp;🎉🎉 Co-authored paper at ACAIT 2026 (Chongqing, China). 🇨🇳
 - *2026.06*: &nbsp;🎉🎉 First author paper accepted at INTERSPEECH 2026 (Sydney, Australia). 🇦🇺
 - *2026.04*: &nbsp;🎉🎉 First author paper accepted to IEEE Transactions ASLP.
 - *2026.03*: &nbsp;🎉🎉 Co-authored paper accepted to Computer Speech & Language.
@@ -73,19 +75,22 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 
 
 *Conference:*
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2020.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Sixia Li, Jianwu Dang. "**Dimensional Emotion Prediction Based on Interactive Context in Conversation.**" *In Proc. INTERSPEECH*, pp. 4193-4197, 2020.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation.**" *In Proc. INTERSPEECH*, pp.765-769, 2023.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Emotion Awareness in Multi-utterance Turn for Improving Emotion Prediction in Multi-Speaker Conversation.**" *In Proc. INTERSPEECH*, pp. 765-769, 2023.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.4193-4197, 2024.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition.**" *In Proc. INTERSPEECH*, pp. 4193-4197, 2024.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" *In Proc. INTERSPEECH*, pp.1763-1767, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Who, When, and What: Leveraging the "Three Ws" Concept for Emotion Recognition in Conversation.**" *In Proc. INTERSPEECH*, pp. 1763-1767, 2025.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.4333-4337, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span> **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Speaker-Aware Multi-Task Learning for Speech Emotion Recognition.**" *In Proc. INTERSPEECH*, pp. 4333-4337, 2025.
  
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, pp.4693-4697, 2025.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**Advancing Emotion Recognition via Ensemble Learning: Integrating Speech, Context, and Text Representations.**" *In Proc. INTERSPEECH*, pp. 4693-4697, 2025.
 
-- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" *In Proc. INTERSPEECH*, pp.XXXX-XXXX, 2026.
+- <span style="display: inline; background-color: #fce4ec; padding: 3px;"><code>INTERSPEECH</code></span>  **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploiting Modality-Specific Label Variations for Enhanced Multimodal Emotion Recognition.**" *In Proc. INTERSPEECH*, pp. XXXX-XXXX, 2026.
+
+- <span style="display: inline; background-color: #e8f5e9; padding: 3px;"><code>SLT</code></span>  **Xiaohan Shi**, Tomoki Toda. "**W³EDM: 3W-based Emotional Modeling with Emotion Descriptions for Conversational Speech Synthesis.**" *Proc. IEEE SLT*, pp. XXXX-XXXX, 2026.
+
 
 - <span style="display: inline; background-color: #f2f2f2; padding: 3px;"><code>APSIPA</code></span> **Xiaohan Shi**, Yuan Gao, Jiajun He, Jinyi Mi, Xingfeng Li, Tomoki Toda. "**A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition.**" *Proc. APSIPA ASC*, 2024.
 
@@ -106,8 +111,6 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - Yongwei Li, **Xiaohan Shi**, Xingfeng Li, Yang Liu, Zhen Zhao, Aijun Li, Donna Erickson, Masto Akagi, Feng Du. "**Comparative Analysis of Handcrafted Acoustic Features and Pre-Trained Embeddings for Robust Speech Emotion Recognition Under Varying Noise Conditions.**" Submitted to *IEEE Transactions on Affective computing*. 
 
 - **Xiaohan Shi**, Xingfeng Li, Jinyi Mi, Tomoki Toda. "**Advancing the "Three Ws" Concept for Speaker-Aware Emotion Recognition in Conversation.**" Submitted to *Computer Speech & Language*.
-
-- **Xiaohan Shi**, Tomoki Toda. "**W³EDM: 3W-based Emotional Modeling with Emotion Descriptions for Conversational Speech Synthesis.**" Submitted to *SLT 2026*
 
 <!-- **Xiaohan Shi**, Xingfeng Li, Tomoki Toda. "**Exploring Emotion Recognition in Real-world Environments via Speech Separation.**" Submitted to *INTERSPEECH 2026*. -->
  
