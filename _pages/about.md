@@ -32,7 +32,7 @@ My research interests include emotion recognition, emotion synthesis, emotion co
 - *2013.09 - 2017.06*, [Shaanxi University of Technology](https://www.snut.edu.cn/), Shaanxi, China. 🇨🇳
 
 # 💻 Careers
-- *2026.10 - Now*, AISpeech, Suzhou, China. 
+<!-- - *2026.10 - Now*, AISpeech, Suzhou, China. -->
 - *2020.10 - 2022.04*, Hithink RoyalFlush AI Research Institute, Hangzhou, China. 
 
 # 🔥 News
@@ -160,8 +160,8 @@ Conference：
 - *2026.01 - (Now)*, WCCI.
 - *2026.04 - (Now)*, ACM MM.
 - *2026.04 - (Now)*, SLT.
-<!-- 
-# 💬 Visitor
+  
+<!-- # 💬 Visitor
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=jEuxYdVJyECxniDOS1wDEtmil2J7WoZ8HaUtzPOBOcU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
 
@@ -171,4 +171,4 @@ Conference：
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
- -->
+-->
